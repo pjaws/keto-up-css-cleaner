@@ -1,0 +1,8 @@
+{
+	"options": {
+		"css": "/Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.index.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.homepage-flexslider.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.home-page-tabsproduct.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.home-blog.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.brands.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.homepage-block-newsletter.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.paralax-1.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.paralax-2.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.paralax-3.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.paralax-4.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.paralax-5.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.paralax-video.purified.css",
+		"css_output": "/Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.index.purged.css",
+		"trim": false,
+		"trim_comments": true
+	}
+}

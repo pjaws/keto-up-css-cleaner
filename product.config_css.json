@@ -1,0 +1,8 @@
+{
+	"options": {
+		"css": "/Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.product.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.product_testimonial.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.limited-edition-product-helper.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.judgeme_widgets.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.subscription-product.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.swatch.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.wishlist-product.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.customer-video.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.related-products-by-tags.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.related-products.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.product_infox.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.judgeme_core.purified.css",
+		"css_output": "/Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.product.purged.css",
+		"trim": false,
+		"trim_comments": true
+	}
+}

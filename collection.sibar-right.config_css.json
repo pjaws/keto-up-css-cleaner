@@ -1,0 +1,8 @@
+{
+	"options": {
+		"css": "/Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.collection.sibar-right.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.toolbar.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.product-grid-item-category.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.pagination-page.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.collection-sidebar.purified.css",
+		"css_output": "/Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.collection.sibar-right.purged.css",
+		"trim": false,
+		"trim_comments": true
+	}
+}

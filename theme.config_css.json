@@ -1,0 +1,8 @@
+{
+	"options": {
+		"css": "/Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.theme.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.header.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.desktop-bottom-nav.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.mobile-bottom-nav.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.shipping-bar.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.site-nav.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.wishlist-product.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.footer.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.breadcrumb.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.treedify_script.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.quick-view-product.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.footer_scripts.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.limespot.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.popup-newsletter.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.zipcode-popup.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.canvas-menu.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.search-autocomplete.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.subscription-theme-footer.purified.css",
+		"css_output": "/Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.theme.purged.css",
+		"trim": false,
+		"trim_comments": true
+	}
+}

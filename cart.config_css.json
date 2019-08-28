@@ -1,0 +1,8 @@
+{
+	"options": {
+		"css": "/Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.cart.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.subscription-cart-footer.purified.css, /Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.shipping-calculator.purified.css",
+		"css_output": "/Users/pauljaworski/Projects/Yeti/keto-up/assets/styles.cart.purged.css",
+		"trim": false,
+		"trim_comments": true
+	}
+}
